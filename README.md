@@ -11,3 +11,44 @@ Cosas que me gustan:
 - Cosas que no me gustan
 - Leer mucho texto
 - La playa por la arena
+
+> Tengo estudios en:
+
+- [x] IES Haría
+- [ ] Academia de Idiomas
+- [x] ESO
+
+[Este es el centro donde estudio](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/)
+
+![](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/wp-content/uploads/sites/830/2023/03/pfrqng22cxiwzgxf0qrbwyoilkvvikh1-2.png =300x250)
+
+![](https://www3.gobiernodecanarias.org/medusa/edublog/iesharia/wp-content/uploads/sites/830/2023/03/img_20230310_0849541-1024x399.jpg)
+
+```js example-good
+const greeting = "Soy un ejemplo de que se codigo javascript";
+```
+Sitios donde me gustaria viajar:
+
+País | Costo
+---- | -----
+Corea| 1500€
+Japón| 1400€
+Perú | 800€
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
