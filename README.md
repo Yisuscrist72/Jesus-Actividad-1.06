@@ -35,7 +35,26 @@ Corea| 1500€
 Japón| 1400€
 Perú | 800€
 
+| Comida que me gusta | Tipo    | Color |
+| :----------------   |  :----: |  ---: |
+| Manzana             | Fruta   | Rojo  |
+| Pera                | Fruta   | Verde |
 
+
+Esto es un ejmeplo de un pie de nota[^1].
+
+[^1] Hola soy un pie de nota
+
+
+*[HTML]: Hyper Text Markup Language
+
+$$\begin{array}{ccc}
+x_{11} & x_{12} & x_{13}\\
+x_{21} & x_{22} & x_{23}
+\end{array}$$
+
+Autor del texto
+: Jesús
 
 
 
